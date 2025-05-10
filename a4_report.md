@@ -174,23 +174,23 @@ Restricts unauthorized communication channels and protocols, reducing opportunit
 ### **Screenshots**
 - ICMP Flood Test (Before and After)  
 
-![Screenshot Description](./screenshots/2_1before.png)
+![Output](./screenshots/2_1before.png)
 
-![Screenshot Description](./screenshots/2_1after.png)
+![Output](./screenshots/2_1after.png)
 
 - HTTP Server Access OR Nmap Scans (Before and After)  
 
-![Screenshot Description](./screenshots/2_2nmap_before.png)
+![Output](./screenshots/2_2nmap_before.png)
 
-![Screenshot Description](./screenshots/2_2nmap_after.png)
+![Output](./screenshots/2_2nmap_after.png)
 
 - `iptables -L` Output After Rule Configuration  
 
-![Screenshot Description](./screenshots/2_3iptables.png)
+![Output](./screenshots/2_3iptables.png)
 
 - ICMP Directionality Test Results
 
-![Screenshot Description](./screenshots/2_4icmp.png)
+![Output](./screenshots/2_4icmp.png)
 
 
 ### **Analysis Questions**
@@ -305,11 +305,11 @@ The firewall configuration likely uses a **default DROP policy**, meaning any tr
 ### **Screenshots**
 - Model evaluation output showing accuracy, precision, recall, and F1-score
 
-![Screenshot Description](./screenshots/3_1metrics.png)
+![Output](./screenshots/3_1metrics.png)
 
 - Confusion matrix output
 
-![Screenshot Description](./screenshots/3_2matrix.png)
+![Output](./screenshots/3_2matrix.png)
 
 ### **Analysis Questions**
 
